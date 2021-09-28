@@ -3,4 +3,4 @@
 * Sub Zero
 * Math
 * Scola
-* Dr. Lucas
+* Capitan America
